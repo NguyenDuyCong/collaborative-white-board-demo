@@ -10,3 +10,7 @@
 #### Server
 
 - sử dụng `socket.io`, `express`
+
+#### References
+
+- https://www.youtube.com/watch?v=LZTWYdU4nKk
