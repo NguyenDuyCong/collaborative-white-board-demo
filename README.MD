@@ -1,5 +1,7 @@
 ### Create a collaborative white board using Node.js, ReactJS, Socket.io, canvas
 
+![alt text](./demo.gif)
+
 #### Client
 
 - sử dụng `socket.io-client`
